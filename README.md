@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KGowthamTN
 - 👀 I’m interested in developing programs
-- 🌱 I’m currently learning C programming language
-- 💞️ I’m looking to collaborate on C based projects
+- 🌱 I’m currently learning Networking
+- 💞️ I’m looking to collaborate on Python based projects
 - 📫 How to reach me k.gowtham.tn@gmail.com
 
 <!---
