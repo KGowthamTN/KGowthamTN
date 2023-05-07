@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KGowthamTN
-- 👀 I’m interested in developing programs
+- 👀 I’m interested in developing projects
 - 🌱 I’m currently learning Networking
 - 💞️ I’m looking to collaborate on Python based projects
 - 📫 How to reach me k.gowtham.tn@gmail.com
